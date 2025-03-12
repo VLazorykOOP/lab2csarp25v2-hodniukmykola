@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2CSharp", "Lab2CSharp\Lab2CSharp.csproj", "{9350BF2E-0A6C-4461-9C6D-508B6246F26A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2CSharp", "Lab2CSharp\Lab2CSharp.csproj", "{9350BF2E-0A6C-4461-9C6D-508B6246F26A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX2", "EX2\EX2.csproj", "{A86DCB8D-2B94-4547-BDBB-C149B6E0BF1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX3", "EX3\EX3.csproj", "{564F2DD3-CDB2-4325-8FC7-F5529069DD1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ех4", "ех4\ех4.csproj", "{C9FDA308-BC70-476E-A53F-CFD11196201D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{9350BF2E-0A6C-4461-9C6D-508B6246F26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9350BF2E-0A6C-4461-9C6D-508B6246F26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9350BF2E-0A6C-4461-9C6D-508B6246F26A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A86DCB8D-2B94-4547-BDBB-C149B6E0BF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86DCB8D-2B94-4547-BDBB-C149B6E0BF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86DCB8D-2B94-4547-BDBB-C149B6E0BF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86DCB8D-2B94-4547-BDBB-C149B6E0BF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564F2DD3-CDB2-4325-8FC7-F5529069DD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564F2DD3-CDB2-4325-8FC7-F5529069DD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564F2DD3-CDB2-4325-8FC7-F5529069DD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564F2DD3-CDB2-4325-8FC7-F5529069DD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9FDA308-BC70-476E-A53F-CFD11196201D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9FDA308-BC70-476E-A53F-CFD11196201D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9FDA308-BC70-476E-A53F-CFD11196201D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9FDA308-BC70-476E-A53F-CFD11196201D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
